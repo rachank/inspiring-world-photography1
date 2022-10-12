@@ -14,3 +14,12 @@ body {
     font-weight: 400;
     
 }
+
+/* style headings */
+
+h1, h2 {
+    font-family: Courgette;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    color: black;
+}
